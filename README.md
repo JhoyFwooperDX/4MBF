@@ -36,7 +36,7 @@ Cara Menjalankan Scripts
 
 cd $HOME
 
-cd fbi
+cd 4MBF
 
 python 4MBF.py
 
